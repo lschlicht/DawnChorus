@@ -9,6 +9,8 @@ There are three ways to use this data and code.
     #The data is now available.
     #The source code of the analyses and figures is available in the installed packages folder, which can be found at:
     > paste0(find.package("dc"), "/Scripts") #path to code
+    #to open the folder containing the scripts on Windows, run
+    > shell.exec(paste0(find.package("dc"), "/Scripts"))
     
 (2) Download the files from the folders extdata, data and inst and run the functions.
 

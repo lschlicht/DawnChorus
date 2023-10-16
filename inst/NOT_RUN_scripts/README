@@ -1,0 +1,5 @@
+README NOT_RUN_scripts
+
+These are scripts that document how the data was compiled from the original database. They only run on the original database and document the exact procedure of data extraction. They cannot be run on their own.
+
+LS, 2023-10-16

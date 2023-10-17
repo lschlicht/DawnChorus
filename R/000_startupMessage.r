@@ -5,10 +5,10 @@
 HOW TO USE:
 Dataset 1: 'ActivityDataPerMinute' Contains male song and female box visits per minute
 Dataset 2: 'ActivityDataPerPeriod' Contains male song and female box visits per period (before, during or after female box visit)
-A description of the dataset can be found at\n
-> ?ActivitDataPerMinute
-and
-> ?ActivitDataPerPeriod
+
+For a dataset description, type
+> ?ActivitDataPerMinute     or     > ?ActivitDataPerPeriod
+
 To find the location of the r-scripts, type:
 paste0(.libPaths(), '/DawnChorus/Scripts/')\n
 To get a list of the names of existing scripts, type:
